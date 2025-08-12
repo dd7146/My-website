@@ -1,0 +1,31 @@
+.hero {
+  flex: 1; /* take up remaining space */
+  display: flex;
+  justify-content: center; /* center horizontally */
+  align-items: center; /* center vertically */
+  text-align: center;
+  background: url("https://via.placeholder.com/1920x1080") no-repeat center center/cover;
+  color: white;
+  padding: 2rem;
+}
+
+.hero-content {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 2rem 3rem;
+  border-radius: 10px;
+}
+
+.cta-btn {
+  margin-top: 1rem;
+  padding: 0.7rem 1.5rem;
+  background-color: #ff9800;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.cta-btn:hover {
+  background-color: #e68900;
+}
