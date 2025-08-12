@@ -26,7 +26,7 @@ Designed to be visually appealing, user-friendly, and performance-optimized.
 
 ## 📂 Folder Structure
 
-portfolio-react/
+"""portfolio-react/
 │
 ├── public/
 │ ├── index.html
@@ -48,3 +48,4 @@ portfolio-react/
 │
 └── package.json
 
+"""
