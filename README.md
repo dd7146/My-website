@@ -26,26 +26,20 @@ Designed to be visually appealing, user-friendly, and performance-optimized.
 
 ## 📂 Folder Structure
 
-"""portfolio-react/
-│
+""" portfolio-react/
 ├── public/
 │ ├── index.html
 │ └── favicon.ico
-│
 ├── src/
 │ ├── components/
 │ │ ├── Navbar.jsx
 │ │ ├── Home.jsx
 │ │ ├── Projects.jsx
 │ │ └── Contact.jsx
-│ │
 │ ├── App.js
 │ ├── index.js
 │ └── styles/
 │ ├── Home.css
 │ ├── Projects.css
 │ └── Navbar.css
-│
-└── package.json
-
-"""
+└── package.json"""
